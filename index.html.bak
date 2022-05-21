@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Alfred Tagud - Portfolio</title>
+  <title>Alfred Tagud - Home</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -325,9 +325,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="">
+              <img src="assets/img/portfolio/bohol/blog-bg.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/maintenance-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                <a href="blog.html"  class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
@@ -432,7 +432,7 @@
               <div class="testimonial-item" data-aos="fade-up" data-aos-delay="200">
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Alfred provided us the tool to track unique events and segment who the users are and what each user is doing. Google analytics doesn't allow that. Thank you so much!
+                  Alfred provided us the program to track unique events and segment who the users are and what each user is doing. Google analytics doesn't allow that. This greatly helps my company. Thank you so much!
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
                 <img src="assets/img/testimonials/testimonials-3.jpg" class="testimonial-img" alt="">
