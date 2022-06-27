@@ -5,7 +5,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>Alfred Tagud - Home</title>
+  <title>Home</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -327,7 +327,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/bohol/blog-bg.jpg" class="img-fluid" alt="">
               <div class="portfolio-links">
-                <a href="blog.html"  class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                <a href="blog.html" data-gallery="portfolioGallery"><i class="bx bx-plus"></i></a>
               </div>
             </div>
           </div>
